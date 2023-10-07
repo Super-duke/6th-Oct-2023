@@ -1,0 +1,6 @@
+num1 = float(input("Enter the first digit\n"))
+num2 = float(input("Enter the second digit\n"))
+print("The Sum is :", num1 + num2)
+print("The Sub is :", num1 - num2)
+print("The Multiple is :", num1 * num2)
+print("The Division is :", num1 / num2)
